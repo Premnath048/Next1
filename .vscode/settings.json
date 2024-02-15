@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/01e62471-f511-418e-8b60-640dc2aaeaa3/resourceGroups/next-js-app/providers/Microsoft.Web/sites/az-next-web-app",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
